@@ -1,7 +1,7 @@
 # Demir's Night Vision Mod
 
 A simple Minecraft Fabric mod that adds a toggleable Night Vision effect.
-
+Extract the build-gradle-src.zip file to access the Build, Gradle, and src directories.
 ## Features
 
 - 🌙 **Toggle Night Vision** with the **N** key
